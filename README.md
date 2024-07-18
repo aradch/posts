@@ -7,7 +7,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Step 1: Preparing before starting
 
 Need to install node_modules.
-After that Run the command `cd ios` and then `pod install`.
+After that run the command `cd ios` and then `pod install`.
 
 ## Step 2: Start fake server
 
