@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "08122575-93d1-4752-93fa-315f5f31e389",
+      "title": "React",
+      "body": "React is a JavaScript library for building user interfaces on the web"
+    },
+    {
+      "id": "f4228900-9ed2-4beb-95c6-ab6a4a7a9c06",
+      "title": "React Native",
+      "body": "React Native is a cross-platform JavaScript-based framework for writing native iOS and Android mobile application code"
+    },
+    {
+      "id": "5c78f8e3-0fa2-47af-9bc8-0bb179ba76ec",
+      "title": "Angular",
+      "body": "Angular is a development platform, built on TypeScript"
+    }
+  ],
+  "comments": [
+    {
+      "id": "dca870f5-edb7-42aa-b263-d11001b31fd4",
+      "postId": "08122575-93d1-4752-93fa-315f5f31e389",
+      "text": "I think that ReactJS is a very efficient development framework that can be used to help developers create faster web apps with powerful UI."
+    },
+    {
+      "id": "39c3eb95-d53f-4311-9847-ce62ca95818a",
+      "postId": "08122575-93d1-4752-93fa-315f5f31e389",
+      "text": "In terms of performance and output, there are no major disadvantages to using React versus another JavaScript framework. "
+    },
+    {
+      "id": "58c4117c-fced-4a73-8028-eed8a8b04e8a",
+      "postId": "5c78f8e3-0fa2-47af-9bc8-0bb179ba76ec",
+      "text": "Angular is best utilized for completing advanced, large-scale projects under the direction of a seasoned developer."
+    }
+  ]
+}
